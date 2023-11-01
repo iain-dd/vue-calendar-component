@@ -12,6 +12,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+make sure you are running node version 20.9.0
+
 ```sh
 npm install
 ```
