@@ -27,6 +27,7 @@ actual use, all the properties would be set by the developer and left alone depe
 case of the date selector.
 
 Features that have been added: 
+
 1 The ability to switch between Sunday and Monday being the first day of the week. Most people 
 believe that Sunday is the first day of the week when displaying a calendar in the fashion but those 
 who I have met that disagree are extremely adamant about it. 
